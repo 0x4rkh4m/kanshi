@@ -1,0 +1,6 @@
+[discord]
+token = "DISCORD_TOKEN"
+prefix = "!"
+
+[fivem]
+server_url = ""
